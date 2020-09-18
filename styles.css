@@ -1,0 +1,132 @@
+header
+{
+	width: 100%;
+	text-align: right;
+
+}
+footer
+{
+	width: 100%;
+	background-color: #CCC ;
+	text-align: left;
+	justify-content: space-between;
+
+
+}
+p
+{
+	width: 350px;
+	margin: auto;
+	margin-top: 155px;
+
+}
+
+.Paramètres
+{
+	width: 350px;
+	background-color: #CCC ;
+	text-align: right;
+
+
+}
+#conteneur
+{
+	display: flex;
+	width: 100%;
+	background-color: #CCC;
+	
+}
+.InfosconsommateursParamètres
+{
+	width: 100%;
+	text-align: right;
+}
+.Publicité
+{
+
+	text-align: left;
+	width: 100%;
+
+}
+div
+{
+	position: absolute;
+	top: 40%; 
+	left: 36%;
+	width: 550px;
+	text-align: justify;
+	font-size: 100px;
+
+}
+
+
+.search-txt
+{
+	background: none; 
+	float: left;
+	padding: 0;
+	font-size: 16px;
+	line-height: 30px;
+	width: 400px;
+}
+
+.search-btn
+{ 
+	float: center;
+	font-size: 18px;
+	height: : 45px;
+	width: 145px;
+	display: flex;
+	background-color: #CCC;
+	margin-top: 12%;
+	margin-left: 10%;
+
+}
+
+.chancebtn
+{ 
+	font-size: 18px;
+	height: : 45px;
+	width: 145px;
+	display: flex;
+	background-color: #CCC;
+	margin-top: -4%;
+	margin-bottom: 20%;
+	margin-left: 39%;
+
+}
+
+h5
+{
+	width: 350px;
+	margin-top: 10%;
+	text-align: center;
+	margin-left: 37%;
+	margin-bottom: 22%;
+
+
+}
+a 
+{
+	text-decoration: none;
+	color: black;
+
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: black;
+
+}
+
+.eng
+{
+	color: blue;
+
+}
+
+
+
+
+
